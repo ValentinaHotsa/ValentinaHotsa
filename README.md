@@ -1,6 +1,7 @@
 
-<p align="center"># 🏠 Hello👋, my name is Valentyna</p>
-### I have been studying and working with frontend since 2023.
+# <p align="center">🏠 Hello👋, my name is Valentyna</p>
+
+###  I have been studying and working with frontend since 2023.
 
 
 ## 📲 Some projects 
