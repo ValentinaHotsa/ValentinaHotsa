@@ -6,11 +6,15 @@
 
 ## 📲 Some projects 
 
-- 🎨 My latest project is [VocabBuilder](https://valentinahotsa.github.io/vocab-builder/login)
-- 💻 And this is also my project [Psychologists.Services](https://valentinahotsa.github.io/psychologists.services/)
-- 🎥 Yes, this one too [FilmFlicksHub](https://valentinahotsa.github.io/film-flicks-hub/)
+- 🎨 [VocabBuilder](https://valentinahotsa.github.io/vocab-builder/login) - dictionary app for learning English world [repository](https://github.com/ValentinaHotsa/vocab-builder)
+- 💻 [Psychologists.Services](https://valentinahotsa.github.io/psychologists.services/) - psychologist search and appointment service [repository](https://github.com/ValentinaHotsa/psychologists.services)
+- 🎥 [FilmFlicksHub](https://valentinahotsa.github.io/film-flicks-hub/) - movie search service [repository](https://github.com/ValentinaHotsa/film-flicks-hub)
 
-  
+### Team Project:
+
+- 🌎 [Talk and Travel](https://talk-and-travel.online/) - drink water tracker [repository](https://github.com/ReginaVarybrus/talk-and-travel-chat)
+- 💧 [WaterTracker](https://denys90.github.io/tracker-of-water-frontend/) - chat for travelers around the world [repository](https://github.com/Denys90/tracker-of-water-frontend)
+
 ## 💡 About Me
 
 - 📖 I`m learning React, Node.js, JavaScript
