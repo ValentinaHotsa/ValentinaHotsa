@@ -12,8 +12,8 @@
 
 ### Team Project:
 
-- 🌎 [Talk and Travel](https://talk-and-travel.online/) - drink water tracker [repository](https://github.com/ReginaVarybrus/talk-and-travel-chat)
-- 💧 [WaterTracker](https://denys90.github.io/tracker-of-water-frontend/) - chat for travelers around the world [repository](https://github.com/Denys90/tracker-of-water-frontend)
+- 🌎 [Talk and Travel](https://talk-and-travel.online/) -  chat for travelers around the world [repository](https://github.com/ReginaVarybrus/talk-and-travel-chat)
+- 💧 [WaterTracker](https://denys90.github.io/tracker-of-water-frontend/) -  drink water tracker [repository](https://github.com/Denys90/tracker-of-water-frontend)
 
 ## 💡 About Me
 
